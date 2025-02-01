@@ -1,19 +1,63 @@
-# 🚀 Parth Thaker | Data & Business Intelligence | AI | Cloud  
+# 🚀 Parth Thaker | Data & Business Intelligence | AI & Cloud Enthusiast  
 
-**👋 Welcome to my GitHub!**  
-I’m a **Data & Business Analytics Professional** passionate about leveraging **AI, Cloud, and Data Science** to drive insights and strategy.  
+![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)  
 
-🔹 **AWS Cloud Practitioner Certified**  
-🔹 **4+ Years in Data Analytics & Engineering**  
-🔹 **Tech Stack:** SQL | Python | Tableau | AWS | Power BI  
+🔹 **AWS Cloud Practitioner Certified** | **Business & Data Analytics Professional**  
+🔹 **5 Years of Experience** in Analytics, Data Engineering, & Strategy  
+🔹 **Ex-President, MITA @ Rutgers** | **LinkedIn Top Voice in Data Analytics**  
 
-📌 **Recent Work:**  
-- Built **AI-driven predictive models** for business growth  
-- Led **data visualization projects** with Tableau & Power BI  
-- **Ex-MITSA President @ Rutgers**, fostering student success  
+---
 
-🌟 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/parththaker08)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ParthThaker08)  
+## 📌 About Me  
+I am passionate about **leveraging data, AI, and cloud technologies** to drive business success. My expertise spans **business intelligence, analytics, and cloud computing**, helping organizations make **data-driven decisions** for growth.  
 
-💡 **Let’s build something amazing with data!** 🚀  
+🌟 **Key Highlights:**  
+✔ **Former MITSA President @ Rutgers** - Led initiatives for student development & networking  
+✔ **EdTech & Product Enthusiast** - Strong background in **Sales, Market Strategy & BI**  
+✔ **LinkedIn Top Voice in Data Analytics** - Simplifying complex tech concepts  
+
+---
+
+## ⚡ Technical Skills  
+
+| **Category** | **Skills & Tools** |
+|-------------|-------------------|
+| **Languages** | Python, SQL, R, JavaScript |
+| **Data Analytics** | Tableau, Power BI, Excel, Looker |
+| **Cloud & Databases** | AWS (S3, Redshift, Lambda), Snowflake, PostgreSQL, MySQL |
+| **AI & ML** | LLMs, NLP, Scikit-learn, TensorFlow |
+| **ETL & Data Engineering** | Apache Airflow, dbt, Pandas, Spark |
+| **Other Tools** | Git, Jira, Agile, Google Analytics |
+
+---
+
+## 📊 Featured Projects  
+
+### 🔹 [Predictive Analytics for Airline Delays](#)  
+📌 Built a **machine learning model** to predict flight delays using historical airline data.  
+📌 Used **Python, SQL, and visualization tools** for data preprocessing and model evaluation.  
+
+### 🔹 [NYC Taxi Data Engineering & Visualization](#)  
+📌 Designed an **ETL pipeline** for NYC Taxi data, optimizing data processing using **SQL & Tableau**.  
+📌 Provided **interactive dashboards** for mobility trend analysis and decision-making.  
+
+---
+
+## 📚 Certifications  
+
+- 📜 **AWS Cloud Practitioner (2024)**  
+- 📜 **Google Generative AI Specialization**  
+- 📜 **Advanced SQL for Data Science**  
+
+---
+
+## 🌍 Let's Connect!  
+
+📌 **LinkedIn:** [linkedin.com/in/parththaker08](https://www.linkedin.com/in/parththaker08)  
+📌 **GitHub:** [github.com/ParthThaker08](https://github.com/ParthThaker08)  
+
+💡 **Open to collaborations and exciting opportunities in data & analytics!** 🚀  
+
+---
+
+This code will create a **clean, professional, and engaging** GitHub profile README that showcases your skills, projects, and background effectively. 🚀🔥 Let me know if you want any tweaks!

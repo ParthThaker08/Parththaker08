@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🚀 Parth Thaker | Data & Business Intelligence | AI | Cloud  
 
-<!--
-**ParthThaker08/Parththaker08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👋 Welcome to my GitHub!**  
+I’m a **Data & Business Analytics Professional** passionate about leveraging **AI, Cloud, and Data Science** to drive insights and strategy.  
 
-Here are some ideas to get you started:
+🔹 **AWS Cloud Practitioner Certified**  
+🔹 **4+ Years in Data Analytics & Engineering**  
+🔹 **Tech Stack:** SQL | Python | Tableau | AWS | Power BI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Recent Work:**  
+- Built **AI-driven predictive models** for business growth  
+- Led **data visualization projects** with Tableau & Power BI  
+- **Ex-MITSA President @ Rutgers**, fostering student success  
+
+🌟 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/parththaker08)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ParthThaker08)  
+
+💡 **Let’s build something amazing with data!** 🚀  

@@ -1,6 +1,6 @@
 # 🚀 Parth Thaker | Data & Business Intelligence | AI & Cloud Enthusiast  
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)  
+!(https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)  
 
 🔹 **AWS Cloud Practitioner Certified** | **Business & Data Analytics Professional**  
 🔹 **5 Years of Experience** in Analytics, Data Engineering, & Strategy  

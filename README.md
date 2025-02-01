@@ -1,10 +1,10 @@
 # 🚀 Parth Thaker | Data & Business Intelligence | AI & Cloud Enthusiast  
 
-!(https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)  
+ 
 
 🔹 **AWS Cloud Practitioner Certified** | **Business & Data Analytics Professional**  
 🔹 **5 Years of Experience** in Analytics, Data Engineering, & Strategy  
-🔹 **Ex-President, MITA @ Rutgers** | **LinkedIn Top Voice in Data Analytics**  
+🔹 **Ex-President, Master's in Information Technology and Analytics (MITSA) @ Rutgers** | **LinkedIn Top Voice in Data Analytics**  
 
 ---
 

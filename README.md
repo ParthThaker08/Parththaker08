@@ -1,4 +1,4 @@
-# 🚀 Parth Thaker | Data & Business Intelligence | AI & Cloud Enthusiast  
+# 🚀 Parth Thaker | Technical Progam Manager | Data & Business Intelligence | AI & Cloud Enthusiast  
 
  
 
